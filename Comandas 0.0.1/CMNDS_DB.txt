@@ -1,0 +1,17 @@
+CREATE TABLE Orden
+( 
+	Idorden             integer identity(1,1)  NOT NULL ,
+	Nombres_Clnt         varchar(50)  NULL ,
+	ApePaterno           varchar(50)  NULL ,
+	Telefono             varchar(20)  NULL ,
+	Orden 		     varchar(200)  NULL ,
+	Direccion            Varchar(100)  NULL 
+	
+)
+go
+
+
+
+ALTER TABLE Orden
+	ADD CONSTRAINT XPKIdorden PRIMARY KEY  CLUSTERED (Idorden ASC)
+go
