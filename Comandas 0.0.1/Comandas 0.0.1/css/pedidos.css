@@ -1,0 +1,227 @@
+﻿/*body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #CACFD2;
+    background: #CACBCB;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    background-image: url("../IMG/montaña1.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    opacity: 0.9;
+}
+
+
+h1 {
+    font-size: 2.3em;
+    line-height: 1.3em;
+    margin: 15px 0;
+    text-align: center;
+    font-weight: 400;
+}
+
+
+p {
+    margin: 0 0 1.5em 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+#logo-header {
+    //float: left;
+    padding: 20px 0 0 30px;
+    text-decoration: none;
+}
+
+   
+
+    #logo-header .site-name {
+        display: block;
+        font-weight: 700;
+        font-size: 1.2em;
+    }
+
+    #logo-header .site-desc {
+        display: block;
+        font-weight: 500;
+        font-size: 0.8em;
+        color: white;
+    }
+
+
+
+nav {
+    float: right;
+}
+
+    nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        padding-right: 20px;
+    }
+
+        nav ul li {
+            display: inline-block;
+            line-height: 90px;
+        }
+
+            nav ul li a {
+                display: block;
+                padding: 0 20px;
+                text-decoration: none;
+            }
+
+
+                nav ul li a:hover {
+                    background: #0b76a6;
+                    border: 5px;
+                }
+
+#main-content {
+    background: white;
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+
+    #main-content header,
+    #main-content .content {
+        padding: 40px;
+    }
+
+#main-footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+    #main-footer p {
+        margin: 0;
+    }
+
+    #main-footer a {
+        color: white;
+    }
+
+#main-header {
+    background: #b200ff;
+    color: white;
+    height: 150px;
+    width: 100%; 
+
+
+
+
+    left: 0; 
+    top: 0; 
+    position: fixed; 
+}
+
+.lg {
+    height: 80px;
+    width: 130px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.br {
+    float: left;
+    background-color: #b200ff;
+    height: 526px;
+    width: 100px;
+    position: fixed;
+}
+
+
+
+.Sub_T {
+    background-color: #b200ff;
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+    .Sub_T h1 {
+        font-size: 30px;
+        color: white;
+    }
+
+
+.log {
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.textbox {
+    background-color: lightgray;
+}
+
+.lb {
+    color: black;
+}
+
+.Mnn {
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.tx {
+    text-decoration: none;
+    list-style: none;
+    font-size: 25px;
+}
+
+.bck {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+h2 {
+    color: black;
+    font-size: 20px;
+}
+
+
+
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.mdls {
+    list-style: none;
+}
+
+
+
+.lg {
+    height: 80px;
+    width: 130px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}*/
